@@ -1,0 +1,14 @@
+{
+  "name": "tacoshack-api-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for reading data from the TacoShack API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
